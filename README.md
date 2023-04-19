@@ -1,2 +1,1 @@
-# Oldagram
-Instagram Homepage Clone
+# Oldagram: Instagram for the older generations😎
